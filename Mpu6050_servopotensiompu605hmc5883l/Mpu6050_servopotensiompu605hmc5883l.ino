@@ -153,24 +153,25 @@ int aix, aiy, aiz;
     microsPrevious = microsPrevious + microsPerReading;
   }
 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
-Dynamixel.move(5,val,512); 
-Dynamixel.move(17,val,512); 
+Dynamixel.move(2,val,512); 
+Dynamixel.move(3,val,512); 
+Dynamixel.move(4,val,512); 
+Dynamixel.move(6,val,512); 
+Dynamixel.move(7,val,512);
+Dynamixel.move(8,val,512); 
+Dynamixel.move(10,val,512);
+Dynamixel.move(10,val,512);
+Dynamixel.move(11,val,512); 
+Dynamixel.move(12,val,512); 
+Dynamixel.move(13,val,512);
+Dynamixel.move(14,val,512); 
+Dynamixel.move(15,val,512); 
+Dynamixel.move(15,val,512); 
+Dynamixel.move(16,val,512); 
+Dynamixel.move(18,val,512);
+Dynamixel.move(20,val,512); 
+
+
 
 
 
